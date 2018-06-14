@@ -1,0 +1,2 @@
+# jAlbum
+jAlbum License Service
